@@ -1,12 +1,10 @@
 # ChatGPT Discord Bot
 
-> ### Build your own Discord bot using ChatGPT
->
-> [**中文說明**](https://zero6992.github.io/posts/chatgpt-discord-bot-chinese/)
----
+> [Join here for test (https://discord.gg/kEX5GjHW)](https://discord.gg/kEX5GjHW)
+
 > **Warning**
 >
->According to OpenAI's latest announcement, using unofficial API may result in the ban of your account. Please assess the risks yourself
+> According to OpenAI's latest announcement, using unofficial API may result in the ban of your account. Please assess the risks yourself
 >
 > #### 2023-03-16 OpenAI has deactivated some accounts using UNOFFICIAL model. Recommend using official model
 > #### 2023-03-14 Website ChatGPT model is unstable, suggest using the official API
