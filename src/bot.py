@@ -260,7 +260,7 @@ def run_discord_bot():
                 `UNOFFICIAL`: Website ChatGPT
                 Modifying CHAT_MODEL field in the .env file change the default model
 
-        For complete documentation, please visit https://github.com/salahawk/chatGPT-discord-bot""")
+        For complete documentation, please visit https://github.com/salahawk/discord-bot-chatgpt""")
 
         logger.info(
             "\x1b[31mSomeone needs help!\x1b[0m")
